@@ -51,6 +51,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/vscode/vscode-original.svg" height="30" alt="vs logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/vercel/vercel-original.svg" height="30" alt="vercel logo" />
+  <img width="12" />
+
 </div>
 
 ###
