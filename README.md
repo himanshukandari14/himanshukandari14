@@ -57,6 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/solidity/solidity-original.svg" height="30" alt="vercel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/hardhat/hardhat-original.svg" height="30" alt="vercel logo" />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/firebase/firebase-original.svg" height="30" alt="firebase logo" />
 
 </div>
 
