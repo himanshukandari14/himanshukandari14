@@ -88,5 +88,4 @@
 - 🌱 I’m currently learning **Web3, Ethereum, Solidity**
 - 👨‍💻 All of my projects are available at [View link](https://portfolionext2024.vercel.app/)
 - 📫 Reach me at **himanshukandari14@gmail.com**
-- 📄 My experiences: [View link](https://drive.google.com/file/d/1D2IEC0BexwVxG1iUDGqm4PoxEhWvQcXR/view?usp=drive_link)
 - ⚡ Fun fact: **I Love Music**
