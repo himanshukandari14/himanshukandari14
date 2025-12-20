@@ -88,7 +88,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Web3, Ethereum, Solidity**
+- 🌱 I’m currently learning **Gen AI**
 - 👨‍💻 All of my projects are available at [View link](https://portfolionext2024.vercel.app/)
 - 📫 Reach me at **himanshukandari14@gmail.com**
 - ⚡ Fun fact: **I Love Music**
