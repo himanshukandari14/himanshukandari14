@@ -63,6 +63,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/rust/rust-original.svg" height="30" alt="firebase logo" />
    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="firebase logo" />
+      <!-- AI / GenAI Stack -->
+  <img width="12" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="HuggingFace logo" />
+  
+  <img width="12" />
+  <img src="https://ollama.com/public/ollama.png" height="30" alt="Ollama logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg" height="30" alt="Meta logo" />
           
 
 </div>
