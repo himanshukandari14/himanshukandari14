@@ -1,0 +1,18 @@
+diff --git a/test.js b/test.js
+new file mode 100644
+--- /dev/null
++++ b/test.js
+@@ -0,0 +1,13 @@
++/**
++ * Dummy function 1 – replace with real implementation later.
++ */
++export function dummyOne() {
++  // TODO: implement
++}
++
++/**
++ * Dummy function 2 – replace with real implementation later.
++ */
++export function dummyTwo() {
++  // TODO: implement
++}
